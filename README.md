@@ -1,5 +1,5 @@
 # think-gateway
-基于tp5的gateway worker扩展
+基于tp5的gateway worker扩展 (windows版本)
 
 ### 安装:
 
